@@ -29,6 +29,8 @@ Python code to add two numbers:
 
 Here,
 
+defining integer(int) value to variables
+
 ```sh
 X = input("Enter number: ")      #Here "X" and "Y" are input values & Variables 
 Y = input("Enter another number: ")
@@ -41,7 +43,7 @@ print("The sum is: ", sum)
 
 </div>
 
-We can define integer value here or also we can define it at input values like:
+We can also define integer(int) value at input values like:
 
 ```
 X = int(input("Enter number: ")            #int = integer
