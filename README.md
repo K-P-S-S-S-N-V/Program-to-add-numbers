@@ -46,8 +46,8 @@ print("The sum is: ", sum)
 We can also define integer(int) value at input values like:
 
 ```
-X = int(input("Enter number: ")            #int = integer
-Y = int(input("Enter another number: ")
+X = int(input("Enter number: "))          #int = integer
+Y = int(input("Enter another number: "))
 
 sum = X + Y            
 print("The sum is: ", sum)
